@@ -1,0 +1,23 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "description": "Command to run server.js file:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwskills/lab-nodejs.git"
+  },
+  "author": "ketan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwskills/lab-nodejs/issues"
+  },
+  "homepage": "https://github.com/pwskills/lab-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

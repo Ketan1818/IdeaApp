@@ -1,10 +1,7 @@
-// Hello World in Nodejs
+const express = require('express')
 
-var http = require('http');  
-  
-http.createServer(function (req, res) {
-    res.write('Hello World!');
-    res.end();
-}).listen(4000);
-  
-console.log('Server running at 4000');
+const app = express();
+
+app.listen(3333, () =>{
+    console.log('server started')
+})
