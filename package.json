@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pwskills/lab-nodejs.git"
+    "url": "git+https://github.com/Ketan1818/IdeaApp"
   },
   "author": "ketan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pwskills/lab-nodejs/issues"
+    "url": "https://github.com/Ketan1818/IdeaApp"
   },
-  "homepage": "https://github.com/pwskills/lab-nodejs#readme",
+  "homepage": "https://github.com/Ketan1818/IdeaApp#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
